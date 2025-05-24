@@ -1,5 +1,5 @@
 # Dashboard de Gestión de Talento Humano
-Este proyecto consiste en la creación de un dashboard interactivo en Tableau para analizar información clave del talento humano en la compañia SRL. El objetivo es facilitar la toma de decisiones estratégicas en áreas como desempeño, satisfacción laboral, ausencias y rotación de personal.
+Este proyecto consiste en la creación de un dashboard interactivo en Tableau para analizar información clave del talento humano en la compañia SRL. El objetivo es facilitar la toma de decisiones estratégicas en áreas como desempeño, satisfacción laboral, ausencias y rotación de personal, de una base de datos de 207 empleados.
 
 🔗 **Visualiza el Dashboard aquí:**  
 👉 [Ver en Tableau Public](https://public.tableau.com/app/profile/veronica.yadira.dom.nguez/viz/DashboarddeGestiondeTalento/Dashboard1)
@@ -22,6 +22,3 @@ En el dashboard se puede visualizar:
   - Promedio de Salarios por departamento
   - Razones por las cuales terminan el contrato
   -  Empleados con mejor Performance
-
-  **Conclusiones:**  
-    
